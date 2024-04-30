@@ -1,2 +1,5 @@
 homepage: "https://taglayer.com/"
 documentation: "https://docs.taglayer.com/"
+versions:
+  - sha: e14ec1d74d7d68a99a39797d20a0d5593ca08a96
+    changeNotes: v1.0
